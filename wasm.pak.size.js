@@ -1,0 +1,1 @@
+const WASM_PACK_SIZE = 126762243
